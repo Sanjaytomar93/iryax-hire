@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128316119143",
+    "project_id": "car-rental-service-cf469",
+    "storage_bucket": "car-rental-service-cf469.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128316119143:android:95b10d168ccc47a0769cc2",
+        "android_client_info": {
+          "package_name": "com.iryax.ingrainhire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvl-2YLXSDbk3ZYuE_LsL0IWzGLTJ803A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
